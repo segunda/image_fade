@@ -28,11 +28,11 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   // Sample images from Wikimedia Commons:
   static const List<String> _imgs = [
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Almeida_Júnior_-_Saudade_%28Longing%29_-_Google_Art_Project.jpg/513px-Almeida_Júnior_-_Saudade_%28Longing%29_-_Google_Art_Project.jpg',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rafael_-_Retrato_de_um_Cardeal.jpg/786px-Rafael_-_Retrato_de_um_Cardeal.jpg',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/James_McNeill_Whistler_-_La_Princesse_du_pays_de_la_porcelaine_-_brighter.jpg/580px-James_McNeill_Whistler_-_La_Princesse_du_pays_de_la_porcelaine_-_brighter.jpg',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hans_Holbein_der_Jüngere_-_Der_Kaufmann_Georg_Gisze_-_Google_Art_Project.jpg/897px-Hans_Holbein_der_Jüngere_-_Der_Kaufmann_Georg_Gisze_-_Google_Art_Project.jpg',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg/1280px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_%28Vienna%29_-_Google_Art_Project_-_edited.jpg',
+    'https://ep1.pinkbike.org/p6pb15663890/p6pb15663890.jpg',
+    'https://ep1.pinkbike.org/p6pb17685864/p6pb17685864.jpg',
+    'https://ep1.pinkbike.org/p6pb12504607/p6pb12504607.jpg',
+    'https://ep1.pinkbike.org/p6pb17421853/p6pb17421853.jpg',
+    'https://ep1.pinkbike.org/p6pb17693735/p6pb17693735.jpg',
   ];
 
   int _counter = 0;
